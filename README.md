@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![wishlistWalkThrough](https://user-images.githubusercontent.com/123262276/223205086-29d51aa2-8cb7-43d4-b659-ab3aff09377e.gif)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
